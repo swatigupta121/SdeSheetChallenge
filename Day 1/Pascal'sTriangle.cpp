@@ -1,6 +1,7 @@
 #include <bits/stdc++.h> 
 vector<vector<long long int>> printPascal(int n) 
 {
+  
   // Write your code here.
         vector<vector<long long int>> res(n);
         for(int i=0;i<n;i++)
